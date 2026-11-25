@@ -1,0 +1,8 @@
+{
+  "beep": true,
+  "auto_monitor": true,
+  "guard": true,
+  "attribution": true,
+  "ignored_dirs": [],
+  "watch_dirs": []
+}
